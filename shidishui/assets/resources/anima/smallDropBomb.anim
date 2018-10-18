@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "smallDropBomb",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4583333333333333,
+  "sample": 24,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "dcb63371-b1f9-4af3-a2a2-2a2f4d2ce4fc"
+            }
+          },
+          {
+            "frame": 0.041666666666666664,
+            "value": {
+              "__uuid__": "477f4ff0-d6b7-415c-be14-927efba1f72d"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "4cd8e9ff-af7d-419d-81c5-21375e610ac4"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "c359123c-920a-4d70-a1de-bc8f6e9605ba"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "8ec80c51-5c49-4b76-8075-4712e6325031"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "c21f9df4-2ae4-451f-83bb-4f151eff2d37"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "e32827fe-0f5d-4412-94d8-c0c2e231b87e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

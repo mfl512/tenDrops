@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fourBomb",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.20833333333333334,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a5541b39-c479-4a09-aca8-5cc35a496c24"
+            }
+          },
+          {
+            "frame": 0.041666666666666664,
+            "value": {
+              "__uuid__": "bf488977-3c60-46d3-bafa-18a50e98e341"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "8d89a544-4110-4247-829c-07defbbe05f8"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "e91c376d-2ecb-49d4-9625-3e928d2593f7"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "a8ef7325-bd8f-453c-bd7d-ad7531461faa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
